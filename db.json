@@ -1,0 +1,165 @@
+{
+  "users": [
+    {
+      "id": '1u',
+      "login": "user1",
+      "password": 12345,
+      "email": "user1@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '2u',
+      "login": "user2",
+      "password": 12345,
+      "email": "user2@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '3u',
+      "login": "user3",
+      "password": 12345,
+      "email": "user3@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '4u',
+      "login": "user4",
+      "password": 12345,
+      "email": "user4@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '5u',
+      "login": "user5",
+      "password": 12345,
+      "email": "user5@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '6u',
+      "login": "user6",
+      "password": 12345,
+      "email": "user6@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '7u',
+      "login": "user7",
+      "password": 12345,
+      "email": "user7@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    },
+    {
+      "id": '8u',
+      "login": "user8",
+      "password": 12345,
+      "email": "user8@mail.ru",
+      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+    }
+
+  ],
+  "wishlists": [
+    {
+      "id": '1w',
+      "titleWish": "на новый год",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '2w',
+      "titleWish": "на днюху",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '3w',
+      "titleWish": "на рождество",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '4w',
+      "titleWish": "на день ВДВ",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '5w',
+      "titleWish": "на день России",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '6w',
+      "titleWish": "на взятки",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '7w',
+      "titleWish": "себе",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    },
+    {
+      "id": '8w',
+      "titleWish": "просто так",
+      "gifts": ['кружка', 'тарелка', 'автомобиль', 'кокос', 'шапка', 'носки', 'коньяк', 'ручка'],
+      "Display": true
+    }
+      ],
+  "gifts": [
+    {
+      "id": '1g',
+      "titleGift": "кружка",
+      "rate": 1,
+      "Display": true
+    },
+    {
+      "id": '2g',
+      "titleGift": "тарелка",
+      "rate": 2,
+      "Display": true
+    },
+    {
+      "id": '3g',
+      "titleGift": "автомобиль",
+      "rate": 3,
+      "Display": true
+    },
+    {
+      "id": '4g',
+      "titleGift": "кокос",
+      "rate": 4,
+      "Display": true
+    },
+    {
+      "id": '5g',
+      "titleGift": "шапки",
+      "rate": 5,
+      "Display": true
+    },
+    {
+      "id": '6g',
+      "titleGift": "носки",
+      "rate": 6,
+      "Display": true
+    },
+    {
+      "id": '7g',
+      "titleGift": "коньяк",
+      "rate": 7,
+      "Display": true
+    },
+    {
+      "id": '8g',
+      "titleGift": "ручка",
+      "rate": 8,
+      "Display": true
+    }
+  ]
+
+}
+
+
+
