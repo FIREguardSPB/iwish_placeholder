@@ -29,7 +29,8 @@
       "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
     },
     {
-      "id": '5u',
+      "id": "5u"',
+      "login": "user5",
       "password": 12345,
       "email": "user5@mail.ru",
       "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
