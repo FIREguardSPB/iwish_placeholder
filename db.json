@@ -5,57 +5,50 @@
       "login": "user1",
       "password": 12345,
       "email": "user1@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
+      "wishlists": [1, 2, 3, 4, 5, 6, 7, 8]
     },
     {
       "id": '2u',
       "login": "user2",
       "password": 12345,
       "email": "user2@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": '3u',
       "login": "user3",
       "password": 12345,
       "email": "user3@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": '4u',
       "login": "user4",
       "password": 12345,
       "email": "user4@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": "5u"',
       "login": "user5",
       "password": 12345,
       "email": "user5@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": '6u',
       "login": "user6",
       "password": 12345,
       "email": "user6@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": '7u',
       "login": "user7",
       "password": 12345,
       "email": "user7@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    },
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    },
     {
       "id": '8u',
       "login": "user8",
       "password": 12345,
       "email": "user8@mail.ru",
-      "wishlists": ['wihslist1', 'wishlist2', 'wishlist3', 'wishlist4', 'wishlist5', 'wishlist6', 'wishlist7', 'wishlist8']
-    }
+"wishlists": [1, 2, 3, 4, 5, 6, 7, 8]    }
 
   ],
   "wishlists": [
