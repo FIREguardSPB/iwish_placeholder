@@ -112,51 +112,70 @@
     {
       "id": "1g",
       "titleGift": "кружка",
+      "img": "https://coolpodarok.ru/wp-content/uploads/2020/01/659394-300x300.jpg",
       "rate": 1,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "2g",
       "titleGift": "тарелка",
+      "img": "https://brav-o.ru/upload/iblock/1f7/222041_1.jpg",
       "rate": 2,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "3g",
       "titleGift": "автомобиль",
+      "img": "https://funny-sg.ru/files/avatars/1492318502.jpg",
       "rate": 3,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "4g",
       "titleGift": "кокос",
+      "img": "http://gdefon.org/_ph/5/1/694265794.jpg",
       "rate": 4,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "5g",
       "titleGift": "шапки",
+      "img": "https://www.gamedayshop.it/wp-content/uploads/2017/03/vetcpllnp-300x300.jpg",
       "rate": 5,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "6g",
       "titleGift": "носки",
+      "img": "http://mywishlist.ru/pic/i/wish/300x300/009/297/716.jpeg",
       "rate": 6,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "7g",
       "titleGift": "коньяк",
+      "img": "https://morgoth.ru/images/2018/02/11/0420a6521a4c75189fc703546290a968.jpg",
       "rate": 7,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     },
     {
       "id": "8g",
       "titleGift": "ручка",
+      "img": "http://www.plan-your-time.com/wp-content/uploads/2016/03/sharikovaja_ruchka-300x300.jpg",
       "rate": 8,
+      "tag": ["all", "loved", "family", "friends", "colleges", "me", "children"],
       "Display": true
     }
   ]
 
 }
+
+
+
